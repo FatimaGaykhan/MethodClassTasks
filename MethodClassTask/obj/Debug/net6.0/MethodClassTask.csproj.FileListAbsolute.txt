@@ -1,0 +1,14 @@
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\bin\Debug\net6.0\MethodClassTask.exe
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\bin\Debug\net6.0\MethodClassTask.deps.json
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\bin\Debug\net6.0\MethodClassTask.runtimeconfig.json
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\bin\Debug\net6.0\MethodClassTask.dll
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\bin\Debug\net6.0\MethodClassTask.pdb
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\MethodClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\MethodClassTask.AssemblyInfoInputs.cache
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\MethodClassTask.AssemblyInfo.cs
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\MethodClassTask.csproj.CoreCompileInputs.cache
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\MethodClassTask.dll
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\refint\MethodClassTask.dll
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\MethodClassTask.pdb
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\MethodClassTask.genruntimeconfig.cache
+C:\Users\fatimaeg\Desktop\MethodClassTask\MethodClassTask\obj\Debug\net6.0\ref\MethodClassTask.dll
